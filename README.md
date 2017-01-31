@@ -27,7 +27,7 @@ To use this theme you will need to modify each of your syntax language files suc
       <dict>
         ...
 
-Insert the following between `<array>` and the first `<dict>`
+Insert the following between `<array>` and the first `<dict>`:
 
     <dict>
       <key>match</key>
