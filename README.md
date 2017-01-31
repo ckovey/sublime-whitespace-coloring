@@ -1,3 +1,11 @@
+*Project no longer maintained*
+
+This project was for ST2.  It appears ST3 has changed to http://www.sublimetext.com/docs/3/syntax.html for syntax definitions so you may not need to edit the built in language definitions anymore, yay!
+
+License: WTFPL
+
+Old readme below:
+
 Sublime Whitespace Coloring
 ===========================
 This is based on the advice from facelessuser & nick on the [Sublime Forums][1] and will give you greater control over the look of your whitespace.
